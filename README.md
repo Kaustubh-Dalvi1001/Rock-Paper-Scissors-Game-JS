@@ -35,6 +35,8 @@ This is a simple and interactive **Rock Paper Scissors** game built using **HTML
 
 ---
 
+## 🧑‍💻 Author
+
 **Kaustubh Dalvi**  
 🔗 [GitHub](https://github.com/Kaustubh-Dalvi1001)
 
